@@ -1,0 +1,17 @@
+Los pasos descritos en el video para mejorar la velocidad de tu internet son los siguientes:
+
+1. Presiona `Windows + R`, escribe `DEVMGMT.MSC` y presiona Enter.
+2. En el Administrador de dispositivos, selecciona "Adaptadores de red".
+3. Busca tu adaptador "Intel Wireless", haz clic derecho y selecciona "Propiedades".
+4. En la pestaña "Opciones avanzadas", ajusta la "Agresividad de itinerancia" al máximo.
+
+Este ajuste permite que tu adaptador busque puntos de acceso con mejor señal más frecuentemente, lo cual puede mejorar la estabilidad de la conexión si te encuentras en movimiento dentro de una red grande o con varios puntos de acceso. Sin embargo, si tu conexión es estable y no cambias de lugar con frecuencia, este cambio podría no ser beneficioso y podría generar una mayor cantidad de búsquedas, lo que no necesariamente mejora la velocidad de internet.
+
+### Otros métodos para mejorar la velocidad de tu conexión:
+1. **Optimiza el canal Wi-Fi**: Cambia el canal de tu router a uno menos congestionado.
+2. **Actualiza drivers**: Asegúrate de que el adaptador de red tiene los controladores más recientes.
+3. **Ajusta la configuración de calidad de servicio (QoS)**: Si tu router lo permite, prioriza el tráfico de internet importante, como videollamadas o juegos.
+4. **Usa conexión por cable**: Una conexión Ethernet es más estable y rápida que una conexión Wi-Fi.
+5. **Reubica el router**: Coloca el router en una ubicación central para mejorar la cobertura.
+
+En resumen, ajustar la "agresividad de itinerancia" puede ser útil en entornos específicos, pero para mejorar realmente tu velocidad de internet, se recomienda revisar otros aspectos como el canal Wi-Fi y la ubicación del router.
